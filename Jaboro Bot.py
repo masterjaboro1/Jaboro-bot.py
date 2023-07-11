@@ -583,5 +583,4 @@ async def jjwjwj(interaction:discord.Interaction, member: discord.Member, insult
 
 
 
-
-bot.run("MTExODkyOTAxODQyNzgyMjE0MA.G9Q5pr.zmWOZolqu3JvR4AQNZEmgnn4eP0nB6Z4j6aGG4")
+bot.run("TOKEN")
